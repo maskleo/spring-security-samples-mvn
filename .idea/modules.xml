@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/helloworld/helloworld.iml" filepath="$PROJECT_DIR$/helloworld/helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/method-security/method-security.iml" filepath="$PROJECT_DIR$/method-security/method-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-samples-mvn.iml" filepath="$PROJECT_DIR$/spring-security-samples-mvn.iml" />
+    </modules>
+  </component>
+</project>
