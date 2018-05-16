@@ -6,11 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring-security-samples-mvn" />
+        <module name="helloworld" />
+        <module name="method-security" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="spring-security-samples-mvn" target="1.5" />
+      <module name="helloworld" target="1.8" />
+      <module name="method-security" target="1.8" />
+      <module name="spring-security-samples-mvn" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
